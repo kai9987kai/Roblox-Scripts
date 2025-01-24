@@ -5,3 +5,6 @@ Script2 = script with advanced categorization of script type e.g. server client 
 
 
 Script3 =  script that adds realistic aging effects to objects over time, including dirt accumulation, structural degradation, and surface weathering
+
+
+Script4= Agents with deep learning integration, player interaction systems, and environmental manipulation capabilities. 
